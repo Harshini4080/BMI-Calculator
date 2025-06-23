@@ -37,6 +37,6 @@ A simple and responsive Body Mass Index (BMI) Calculator that allows users to ca
 1. **Clone this repository**:
    ```bash
    git clone https://github.com/yourusername/bmi-calculator.git
-   cd bmi-calculator
+  
 2. Go to Directory
 3. Run index.html 
