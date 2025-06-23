@@ -40,4 +40,4 @@ A simple and responsive Body Mass Index (BMI) Calculator that allows users to ca
   
 2. Go to Directory
 3. Run index.html 
-4. Start using the drum
+
