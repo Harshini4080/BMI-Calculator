@@ -1,10 +1,10 @@
-# ⚖️ BMI Calculator
+#  BMI Calculator
 
 A simple and responsive Body Mass Index (BMI) Calculator that allows users to calculate their BMI and determine their health category based on standard BMI ranges.
 
 ---
 
-## 🌟 Features
+##  Features
 
 - Calculates BMI based on height (cm) and weight (kg)
 - Displays BMI result with health category:
@@ -17,7 +17,7 @@ A simple and responsive Body Mass Index (BMI) Calculator that allows users to ca
 
 ---
 
-## 📸 Preview
+##  Preview
 
 (![Screenshot 2025-06-23 113458](https://github.com/user-attachments/assets/95894ba2-0898-46fd-ac73-2b2261930cf8)
 )
@@ -32,7 +32,7 @@ A simple and responsive Body Mass Index (BMI) Calculator that allows users to ca
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. **Clone this repository**:
    ```bash
